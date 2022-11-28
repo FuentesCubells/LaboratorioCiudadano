@@ -57,19 +57,19 @@ a{
     grid-area: item1;
     
     
-    font-size: 3.5em;
+    font-size: 2.5em;
 }
 .logo{
     grid-area: item2;
-    width: 533.33px;
-    height: 533.33px;
+    width: 433.33px;
+    height: 433.33px;
 
     background-color: black;
 }
 .title2{
     grid-area: item3;
     text-align: right;
-    font-size: 3.5em;
+    font-size: 2.5em;
 }
 footer{
     grid-area: item4;
@@ -116,7 +116,7 @@ a:hover{
     color: rgb(0, 0, 0);
     
 
-    font-size: 2.5em;
+    font-size: 2em;
     cursor: pointer;
 }
 
