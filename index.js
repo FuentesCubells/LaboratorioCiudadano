@@ -8,23 +8,23 @@ parrafos[3].style.visibility = "hidden";
 parrafos[4].style.visibility = "hidden";
 
 
-enlaces[2].addEventListener("click", function(){
+enlaces[0].addEventListener("click", function(){
     getParrafo(0);
     
 });
-enlaces[3].addEventListener("click", function(){
+enlaces[1].addEventListener("click", function(){
     getParrafo(1);
     
 });
-enlaces[4].addEventListener("click", function(){
+enlaces[2].addEventListener("click", function(){
     getParrafo(2);
     
 });
-enlaces[5].addEventListener("click", function(){
+enlaces[3].addEventListener("click", function(){
     getParrafo(3);
     
 });
-enlaces[6].addEventListener("click", function(){
+enlaces[4].addEventListener("click", function(){
     getParrafo(4);
     
 })
